@@ -2,6 +2,7 @@ package myhealthservices.model;
 
 import lombok.Builder;
 import lombok.Data;
+//hello man!
 
 /**
  * Created by gbezruk on 10/25/16.
